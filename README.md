@@ -1,8 +1,8 @@
-# <img src="fedora_128.png" width="45" align="left"> Fedora User Agent
+# tauOS User Agent
 
-Google Chrome Extension that modifies User-Agent string in outgoing requests to contain the name of Linux based distribution Fedora.
+Google Chrome Extension that modifies User-Agent string in outgoing requests to contain tauOS.
 
-You can get if from [Google Chrome Store](https://chrome.google.com/webstore/detail/fedora-user-agent/hojggiaghnldpcknpbciehjcaoafceil).
+This extension is included with tauOS
 
 ## Testing
 
@@ -18,7 +18,7 @@ You can get if from [Google Chrome Store](https://chrome.google.com/webstore/det
 
 ## Contributing
 
-If you want to help, please read the [Contributing](https://github.com/tpopela/fedora-user-agent-chrome/blob/master/CONTRIBUTING.md) guide.
+Pull requests are always accepted. Please ensure you review the [Code of Conduct for tauOS Contributors](https://github.com/tau-OS/meta/blob/main/coc).
 
 ## History
 
