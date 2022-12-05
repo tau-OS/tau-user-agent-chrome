@@ -1,7 +1,7 @@
 {
   "name": "tauOS User Agent",
   "description": "The tauOS User Agent for Chromium browsers.",
-  "version": "0.0.0.6",
+  "version": "1.0",
   "permissions": [
     "webRequest",
     "webRequestBlocking",
