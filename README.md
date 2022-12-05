@@ -2,7 +2,7 @@
 
 Google Chrome Extension that modifies User-Agent string in outgoing requests to contain tauOS.
 
-This extension is included with tauOS
+This extension is for tauOS
 
 ## Testing
 
